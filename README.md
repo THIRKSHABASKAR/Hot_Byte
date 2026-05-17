@@ -415,7 +415,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-Made with ❤️ and <img src="https://img.shields.io/badge/🔥-E23744?style=flat-square&labelColor=E23744&color=E23744" alt="fire" /> by the HotByte Team
+Made with ❤️ and 🔥by the HotByte Team
 
 ⭐ **Star this repo if you found it helpful!** ⭐
 
