@@ -1,0 +1,13 @@
+package com.hotbyte.dto.response;
+
+import lombok.Data;
+
+@Data
+public class CategoryResponse {
+    private Long id;
+    private String name;
+    private String description;
+    private String imageUrl;
+    private Long restaurantId;
+    private String restaurantName;
+}
