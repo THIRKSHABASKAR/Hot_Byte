@@ -1,5 +1,11 @@
 # <img src="https://img.shields.io/badge/🔥_HotByte-Food_Delivery_Platform-E23744?style=for-the-badge&labelColor=E23744&color=1a1a1a" alt="HotByte" />
 
+
+
+<p align="center">
+  <strong>HOTBYTE-FOOD DELIVERY PLATFORM</strong>
+</p>
+
 <div align="center">
 
 ![HotByte Banner](https://images.unsplash.com/photo-1513104890138-7c749659a591?w=1200&h=400&fit=crop&q=80)
